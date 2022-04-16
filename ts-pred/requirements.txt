@@ -1,0 +1,5 @@
+matplotlib
+sklearn
+numpy
+torch
+tensorflow==2.2.0
